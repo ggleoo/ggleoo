@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leonardo%20(Leo)&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20Curitiba,%20Brazil&descAlignY=54&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Curitiba,%20Brazil&descAlignY=58&descSize=16" />
 
 <p align="center">
   <a href="https://github.com/ggleoo">
@@ -12,14 +12,6 @@
 </p>
 
 ---
-
-## 👨‍💻 About
-
-- 🚀 Full Stack Developer focused on **TypeScript**, **React** and **Node.js**
-- 🧩 Building modern products — CRMs, dashboards and internal web tools
-- 🧠 Into software architecture, performance and developer productivity
-- ⚡ Operator mindset — I build systems meant to scale
-- 📍 Curitiba, Brazil · 21
 
 ## 🛠️ Tech Stack
 
@@ -37,13 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 🚧 What I'm building
-
-- **CPA dashboard** — analytics + operations panel for affiliate/CPA workflows (TypeScript, React, Supabase)
-- **CRM** — custom CRM focused on speed and operator ergonomics
-- **Internal automations** — tooling and assistants to cut repetitive work
-- **Personal knowledge system** — Obsidian-based second brain with custom skills
 
 ## 📊 GitHub Stats
 
@@ -67,14 +52,5 @@
 </picture>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ggleoo&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-
-## 🔗 Connect
-
-<p align="center">
-  <a href="mailto:leonardo7travensolli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <!-- TODO: add your real profile URLs -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
