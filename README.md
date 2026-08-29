@@ -1,0 +1,80 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leonardo%20(Leo)&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20Curitiba,%20Brazil&descAlignY=54&descSize=16" />
+
+<p align="center">
+  <a href="https://github.com/ggleoo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=TypeScript+%C2%B7+React+%C2%B7+Node.js;Building+CRMs%2C+dashboards+%26+internal+web+tools;Operator+mindset.+Systems+built+to+scale." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ggleoo&label=Profile%20views&color=7AA2F7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ggleoo?label=Followers&style=flat&color=7AA2F7" alt="followers" />
+</p>
+
+---
+
+## 👨‍💻 About
+
+- 🚀 Full Stack Developer focused on **TypeScript**, **React** and **Node.js**
+- 🧩 Building modern products — CRMs, dashboards and internal web tools
+- 🧠 Into software architecture, performance and developer productivity
+- ⚡ Operator mindset — I build systems meant to scale
+- 📍 Curitiba, Brazil · 21
+
+## 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🚧 What I'm building
+
+- **CPA dashboard** — analytics + operations panel for affiliate/CPA workflows (TypeScript, React, Supabase)
+- **CRM** — custom CRM focused on speed and operator ergonomics
+- **Internal automations** — tooling and assistants to cut repetitive work
+- **Personal knowledge system** — Obsidian-based second brain with custom skills
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ggleoo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggleoo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggleoo&hide_border=true&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ggleoo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ggleoo/ggleoo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ggleoo/ggleoo/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ggleoo/ggleoo/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ggleoo&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="mailto:leonardo7travensolli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <!-- TODO: add your real profile URLs -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
