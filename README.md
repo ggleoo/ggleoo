@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Curitiba,%20Brazil&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" />
 
 <p align="center">
   <a href="https://github.com/ggleoo">
@@ -33,16 +33,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ggleoo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggleoo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ggleoo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggleoo&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&theme=tokyonight" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggleoo&hide_border=true&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ggleoo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+  <img src="https://streak-stats.demolab.com/?user=ggleoo&hide_border=true&theme=tokyonight" alt="streak" />
 </p>
 
 <picture>
@@ -50,7 +46,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ggleoo/ggleoo/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ggleoo/ggleoo/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ggleoo&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
