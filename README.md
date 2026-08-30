@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ggleoo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=TypeScript+%C2%B7+React+%C2%B7+Node.js;Building+CRMs%2C+dashboards+%26+internal+web+tools;Operator+mindset.+Systems+built+to+scale." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=TypeScript+%C2%B7+React+%C2%B7+Node.js;I+ship+products%2C+not+prototypes;Automate+the+boring.+Scale+the+rest.;Turning+messy+workflows+into+clean+software" alt="Typing SVG" />
   </a>
 </p>
 
