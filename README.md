@@ -33,11 +33,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ggleoo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggleoo&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&theme=tokyonight" alt="top langs" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=ggleoo&hide_border=true&theme=tokyonight" alt="streak" />
 </p>
 
