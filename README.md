@@ -1,19 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Leo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" />
 
-<p align="center">
-  <a href="https://github.com/ggleoo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=TypeScript+%C2%B7+React+%C2%B7+Node.js;I+ship+products%2C+not+prototypes;Automate+the+boring.+Scale+the+rest.;Turning+messy+workflows+into+clean+software" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ggleoo&label=Profile%20views&color=7AA2F7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ggleoo?label=Followers&style=flat&color=7AA2F7" alt="followers" />
-</p>
-
----
-
-## 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
