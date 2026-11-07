@@ -7,7 +7,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="420" src="https://streak-stats.demolab.com/?user=leotrvs&hide_border=true&background=00000000&ring=39D353&fire=39D353&currStreakNum=39D353&currStreakLabel=39D353&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="streak" />
+  <img width="420" src="https://streak-stats.demolab.com/?user=leotrvs&hide_border=true&background=00000000&ring=1F6FEB&fire=1F6FEB&currStreakNum=388BFD&currStreakLabel=388BFD&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="streak" />
 </p>
 
 <picture>
