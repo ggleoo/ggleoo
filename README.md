@@ -4,6 +4,10 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,vite,tailwind,html,css,supabase,postgres,git,githubactions,vscode,cs&perline=14" alt="stack" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/sponsors/leotrvs"><img src="https://img.shields.io/badge/Sponsor-leotrvs-1a73f0?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
